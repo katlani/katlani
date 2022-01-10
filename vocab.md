@@ -1,10 +1,11 @@
 # Vocabulary
 
+Append `i` to a noun to make it plural, for example `oi` is two cats.
+
 ## Nouns
 
 - `o` - cat
 - `y` - thingy
-- `i` - cats
 - `ni` - present-tense marking particle (generally optional)
 - `pas` - past-tense marking particle
 - `fu` - future-tense marking particle
@@ -30,6 +31,7 @@
 - `vaiksal` - Bad (sarcastic)
 - `oro` (pronounced "owo") - Bad
 - `intarnit` - Cursed
+- `poi` - Happy
 
 ## Verbs
 - `pxgr` (pronounced "pexer") - To verbosify/explain
@@ -38,6 +40,11 @@
 - `ktom` - To eat
 - `varir` - To define (a word)
 - `sus` - To be suspicious
+- `hada` - To say something
+- `nai` - To do something (unspecified)
+
+## Adverbs
+- `ama` - Too (in the meaning of "me too" or "in addition")
 
 ## Particles
 - `pas` - Past tense
@@ -61,3 +68,5 @@
 - `sy gust` - I like it
 - `aaaaa` - I am in pain
 - `maka` - Hey everyone!
+- `makima` - Me too
+- `foka` - ಠ_ಠ
