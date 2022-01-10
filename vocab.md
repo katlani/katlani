@@ -42,6 +42,7 @@
 - `hada` - To say something
 - `nai` - To do something (unspecified)
 - `fobl` - To give (can take direct and indirect objects)
+- `iz` - To bite
 
 ## Adverbs
 - `ama` - Too (in the meaning of "me too" or "in addition")
@@ -54,6 +55,8 @@
 - `su` - Direct object case
 - `lia` - Indirect object case
 - `my` - Posession case
+- `pat` - "that" as in "I said that..."
+- `si` - Is
 
 ## Prefixes and Suffixes
 - `no-` - Negation prefix
@@ -66,7 +69,7 @@
 - `nimak` - Most recently mentioned person
 - `shu` - Second person singular pronoun
 - `pasmak` - Second most recently mentioned person
-- `maka` - All people in the discussion
+- `makai` - All people in the discussion
 - `mako` - Someone
 
 ## Interjections
@@ -76,4 +79,5 @@
 - `aaaaa` - I am in pain
 - `maka` - Hey everyone!
 - `makima` - Me too
+- `makai` - All of you
 - `foka` - ಠ_ಠ
