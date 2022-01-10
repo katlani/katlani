@@ -5,3 +5,4 @@
 
 - `sy` - yes
 - `hiya` - hello
+- `onion` - opinion
