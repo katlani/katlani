@@ -19,6 +19,7 @@ sh - like 'sh' in english
 t - like 't' in english
 u - high mid-back vowel like in english 'boot'
 v - like 'v' in english
-y - like 'y' in german; high mid-front rounded vowel
+y - a bit like 'y' in german or 'u' in french; high mid-front rounded vowel
+    https://en.wikipedia.org/wiki/File:Close_front_rounded_vowel.ogg
 z - like 'z' in english
 ```
