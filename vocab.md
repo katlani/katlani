@@ -1,14 +1,9 @@
 # Vocabulary
 
-Append `i` to a noun to make it plural, for example `oi` is two cats.
-
 ## Nouns
 
 - `o` - cat
 - `y` - thingy
-- `ni` - present-tense marking particle (generally optional)
-- `pas` - past-tense marking particle
-- `fu` - future-tense marking particle
 - `sy` - yes
 - `no` - no
 - `hiya` - hello
@@ -18,11 +13,12 @@ Append `i` to a noun to make it plural, for example `oi` is two cats.
 - `lano` - words/language
 - `mak` - Person
 - `shor` - Language
-- `kat` - Chat/speak
+- `kata` - Chat/speak
 - `bit` - Bit
 - `byt` - Byte
 - `baka` - Fool, idiot
 - `caminar` - Walk
+- `ktomish` - Food
 
 ## Adjectives
 - `izl` - Dangerous
@@ -31,7 +27,10 @@ Append `i` to a noun to make it plural, for example `oi` is two cats.
 - `vaiksal` - Bad (sarcastic)
 - `oro` (pronounced "owo") - Bad
 - `intarnit` - Cursed
-- `poi` - Happy
+- `po` - Feeling okay (use -i or -u for happy or sad)
+- `holt` - Fast
+- `lomu` - Surprised
+- `forl` - Sad
 
 ## Verbs
 - `pxgr` (pronounced "pexer") - To verbosify/explain
@@ -42,6 +41,7 @@ Append `i` to a noun to make it plural, for example `oi` is two cats.
 - `sus` - To be suspicious
 - `hada` - To say something
 - `nai` - To do something (unspecified)
+- `fobl` - To give (can take direct and indirect objects)
 
 ## Adverbs
 - `ama` - Too (in the meaning of "me too" or "in addition")
@@ -55,12 +55,19 @@ Append `i` to a noun to make it plural, for example `oi` is two cats.
 - `lia` - Indirect object case
 - `my` - Posession case
 
+## Prefixes and Suffixes
+- `no-` - Negation prefix
+- `-i` - Intensification suffix
+- `-u` - Negation suffix
+
+
 ## Pronouns
 - `mi` - First person pronoun
 - `nimak` - Most recently mentioned person
 - `shu` - Second person singular pronoun
 - `pasmak` - Second most recently mentioned person
 - `maka` - All people in the discussion
+- `mako` - Someone
 
 ## Interjections
 - `yps` - Oops!
