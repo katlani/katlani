@@ -26,3 +26,6 @@
         - Adjectives
         - Optionally, if the noun is the possessee:
             - Another noun phrase representing the possessor; its case marker must be `my`
+ ## Tips
+ 
+ If you want to say one thing is another, you use si [thing1] su [thing2]
