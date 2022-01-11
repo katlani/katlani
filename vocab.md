@@ -16,6 +16,8 @@
 - `baka` - Fool, idiot
 - `caminar` - Walk
 - `ktomish` - Food
+- `kivsk` - parent
+- `mykivsk` - child
 
 ## Adjectives
 - `izl` - Dangerous
