@@ -8,86 +8,86 @@
 - `onion` - opinion
 - `lan` - word
 - `lano` - words/language
-- `mak` - Person
-- `shor` - Language
-- `kata` - Chat/speak
-- `bit` - Bit
-- `byt` - Byte
-- `baka` - Fool, idiot
-- `caminar` - Walk
-- `ktomish` - Food
+- `mak` - person
+- `shor` - language
+- `kata` - chat/speak
+- `bit` - bit
+- `byt` - byte
+- `baka` - fool, idiot
+- `caminar` - walk
+- `ktomish` - food
 - `kivsk` - parent
 - `ksik` - child
 
 ## Adjectives
-- `izl` - Dangerous
-- `opb` (pronounced "ope") - Big
-- `susin` - Suspicious
-- `vaiksal` - Bad (sarcastic)
-- `oro` (pronounced "owo") - Bad
+- `izl` - dangerous
+- `opb` (pronounced "ope") - big
+- `susin` - suspicious
+- `vaiksal` - bad (sarcastic)
+- `oro` (pronounced "owo") - bad
 - `fos` - good
-- `intarnit` - Cursed
-- `po` - Feeling okay (use -i or -u for happy or sad)
-- `holt` - Fast
-- `lomu` - Surprised
-- `forl` - Sad
-- `tiksias` - Cold
-- `seksy` - Hot
+- `intarnit` - cursed
+- `po` - feeling okay (use -i or -u for happy or sad)
+- `holt` - fast
+- `lomu` - surprised
+- `forl` - sad
+- `tiksias` - cold
+- `seksy` - hot
 
 ## Verbs
-- `pxgr` (pronounced "puxegger") - To verbosify/explain
-- `alo` - To jump
-- `kloc` - To play
-- `ktom` - To eat
-- `varir` - To define (a word)
-- `sus` - To be suspicious
-- `hada` - To say something
-- `nai` - To do something (unspecified)
-- `fobl` - To give (can take direct and indirect objects)
-- `iz` - To bite
-- `si` - To be
+- `pxgr` (pronounced "puxegger") - to verbosify/explain
+- `alo` - to jump
+- `kloc` - to play
+- `ktom` - to eat
+- `varir` - to define (a word)
+- `sus` - to be suspicious
+- `hada` - to say something
+- `nai` - to do something (unspecified)
+- `fobl` - to give (can take direct and indirect objects)
+- `iz` - to bite
+- `si` - to be
 - `nistaha` - to look
 - `sabao` - to cause
 - `gust` - to like
 - `gangip` - to guess, assume
 
 ## Adverbs
-- `ama` - Too (in the meaning of "me too" or "in addition")
+- `ama` - too (in the meaning of "me too" or "in addition")
 
 ## Conjunctions
 - `ov` - or
 - `pat` - "that" as in "I said that..."
 
 ## Particles
-- `pas` - Past tense
-- `ni` - Present tense
-- `fy` - Future tense
-- `ta` - Subject case
-- `su` - Direct object case
-- `lia` - Indirect object case
-- `my` - Genitive case
+- `pas` - past tense
+- `ni` - present tense
+- `fy` - future tense
+- `ta` - subject case
+- `su` - direct object case
+- `lia` - indirect object case
+- `my` - genitive case
 - `li` - converts a word to an adverb
 
 ## Prefixes and Suffixes
-- `no-` - Negation prefix
-- `-i` - Intensification suffix
-- `-u` - Negation suffix
+- `no-` - negation prefix
+- `-i` - intensification suffix
+- `-u` - negation suffix
 
 ## Pronouns
-- `mi` - First person pronoun
-- `nimak` - Most recently mentioned person
-- `shu` - Second person singular pronoun
-- `pasmak` - Second most recently mentioned person
-- `makai` - All people in the discussion
-- `mako` - Someone
+- `mi` - first person pronoun
+- `nimak` - most recently mentioned person
+- `shu` - second person singular pronoun
+- `pasmak` - second most recently mentioned person
+- `makai` - all people in the discussion
+- `mako` - someone
 
 ## Interjections
 - `sy` - yes
 - `no` - no
-- `yps` - Oops!
+- `yps` - oops!
 - `aaaaa` - I am in pain
-- `maka` - Hey everyone!
-- `makima` - Me too
-- `makai` - All of you
+- `maka` - hey everyone!
+- `makima` - me too
+- `makai` - all of you
 - `foka` - ಠ_ಠ
 - `hyhy` - *laughing*
