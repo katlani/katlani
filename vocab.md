@@ -49,6 +49,9 @@
 ## Adverbs
 - `ama` - Too (in the meaning of "me too" or "in addition")
 
+## Conjunctions
+- `ov` - or
+
 ## Particles
 - `pas` - Past tense
 - `ni` - Present tense
