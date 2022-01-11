@@ -28,6 +28,8 @@
 - `holt` - Fast
 - `lomu` - Surprised
 - `forl` - Sad
+- `tiksias` - Cold
+- `seksy` - Hot
 
 ## Verbs
 - `pxgr` (pronounced "puxegger") - To verbosify/explain
