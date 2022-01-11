@@ -4,8 +4,6 @@
 
 - `o` - cat
 - `y` - thingy
-- `sy` - yes
-- `no` - no
 - `hiya` - hello
 - `biya` - goodbye
 - `onion` - opinion
@@ -33,7 +31,7 @@
 - `forl` - Sad
 
 ## Verbs
-- `pxgr` (pronounced "pexer") - To verbosify/explain
+- `pxgr` (pronounced "puxegger") - To verbosify/explain
 - `alo` - To jump
 - `kloc` - To play
 - `ktom` - To eat
@@ -73,6 +71,8 @@
 - `mako` - Someone
 
 ## Interjections
+- `sy` - yes
+- `no` - no
 - `yps` - Oops!
 - `no gust` - I don't like it
 - `sy gust` - I like it
