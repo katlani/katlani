@@ -1,64 +1,64 @@
 # Vocabulary
 
 ## Nouns
-- `o` - cat
-- `y` - thingy
-- `hiya` - hello
+- `baka` - fool, idiot
+- `bit` - bit
 - `biya` - goodbye
-- `onion` - opinion
+- `byt` - byte
+- `fyrus` - tomorrow
+- `hiya` - hello
+- `kaminar` - walk
+- `kata` - chat/speak
+- `kivsk` - parent
+- `ksik` - child
+- `ktomish` - food
 - `lan` - word
 - `lano` - words/language
 - `mak` - person
-- `shor` - language
-- `kata` - chat/speak
-- `bit` - bit
-- `byt` - byte
-- `baka` - fool, idiot
-- `kaminar` - walk
-- `ktomish` - food
-- `kivsk` - parent
-- `ksik` - child
-- `rus` - day
-- `pasrus` - yesterday
 - `nirus` - today
-- `fyrus` - tomorrow
+- `o` - cat
+- `onion` - opinion
+- `pasrus` - yesterday
+- `rus` - day
+- `shor` - language
+- `y` - thingy
 
 ## Adjectives
-- `izl` - dangerous
-- `opb` (pronounced "ope") - big
-- `susin` - suspicious
-- `oro` (pronounced "owo") - bad
-- `fos` - good
-- `intarnit` - cursed
-- `po` - feeling okay (use -i or -u for happy or sad)
-- `holt` - fast
-- `lomu` - surprised
 - `forl` - sad
-- `tiksias` - cold
+- `fos` - good
+- `holt` - fast
+- `intarnit` - cursed
+- `izl` - dangerous
+- `lomu` - surprised
+- `opb` (pronounced "ope") - big
+- `oro` (pronounced "owo") - bad
+- `po` - feeling okay (use -i or -u for happy or sad)
 - `siksy` - hot
+- `susin` - suspicious
+- `tiksias` - cold
 
 ## Verbs
 - `alo` - to jump
+- `fobl` - to give (can take direct and indirect objects)
+- `gangip` - to guess, assume
+- `gust` - to like
+- `hada` - to say something
+- `iz` - to bite
 - `klok` - to play
 - `ktom` - to eat
-- `varir` - to define (a word)
-- `sus` - to be suspicious
-- `hada` - to say something
 - `nai` - to do something (unspecified)
-- `fobl` - to give (can take direct and indirect objects)
-- `iz` - to bite
-- `si` - to be
 - `nistaha` - to look
 - `sabao` - to cause
-- `gust` - to like
-- `gangip` - to guess, assume
+- `si` - to be
 - `sitsyli` - to laugh
+- `sus` - to be suspicious
+- `varir` - to define (a word)
 
 ## Adverbs
 - `ama` - too (in the meaning of "me too" or "in addition")
-- `pasrus` - yesterday
-- `nirus` - today
 - `fyrus` - tomorrow
+- `nirus` - today
+- `pasrus` - yesterday
 
 ## Conjunctions
 - `ov` - or
@@ -66,14 +66,14 @@
 - `shusho` - because
 
 ## Particles
-- `pas` - past tense
-- `ni` - present tense
 - `fy` - future tense
-- `ta` - subject case
-- `su` - direct object case
+- `li` - converts a word to an adverb
 - `lia` - indirect object case
 - `my` - genitive case
-- `li` - converts a word to an adverb
+- `ni` - present tense
+- `pas` - past tense
+- `su` - direct object case
+- `ta` - subject case
 
 ## Prefixes and Suffixes
 - `no-` - negation prefix
@@ -83,20 +83,20 @@
 - `-u` - negation suffix
 
 ## Pronouns
-- `mi` - first person pronoun
-- `nimak` - most recently mentioned person
-- `shu` - second person singular pronoun
-- `pasmak` - second most recently mentioned person
 - `makai` - all people in the discussion
 - `mako` - someone
+- `mi` - first person pronoun
+- `nimak` - most recently mentioned person
+- `pasmak` - second most recently mentioned person
+- `shu` - second person singular pronoun
 
 ## Interjections
-- `sy` - yes
-- `no` - no
-- `yps` - oops!
 - `aaaaa` - I am in pain
-- `maka` - hey everyone!
-- `makima` - me too
-- `makai` - all of you
 - `foka` - ಠ_ಠ
 - `hyhy` - *laughing*
+- `maka` - hey everyone!
+- `makai` - all of you
+- `makima` - me too
+- `no` - no
+- `sy` - yes
+- `yps` - oops!
