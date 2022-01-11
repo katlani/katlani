@@ -90,7 +90,6 @@
 ## Adjectives
 
 - `bakil` - foolish
-- `golfy` - fast
 - `isp` - small
 - `izl` - bitey, dangerous
 - `forl` - sad
