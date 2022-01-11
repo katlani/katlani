@@ -48,7 +48,7 @@
 - `sokit` - connection
 - `tipstor` - thief, impostor
 - `toto` - rain
-- `uboiac` - tomato
+- `uboiak` - tomato
 - `y` - thing (any thing or person)
 
 ## Verbs
