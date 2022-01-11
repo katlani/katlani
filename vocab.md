@@ -93,6 +93,7 @@ Verbs
 * `srik` - to write
 * `susin` - to have suspicions about
 * `ask` - to ask
+* `kiso` - to ask
 * `varis` - to be defined as
 
 
@@ -124,6 +125,7 @@ Adjectives
 * `siksy` - hot
 * `sos` - any
 * `sus` - arousing suspicion
+* `fian` - Male
 * `tiksias` - cold
 
 
