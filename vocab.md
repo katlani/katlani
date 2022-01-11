@@ -17,7 +17,7 @@
 - `caminar` - Walk
 - `ktomish` - Food
 - `kivsk` - parent
-- `mykivsk` - child
+- `ksik` - child
 
 ## Adjectives
 - `izl` - Dangerous
