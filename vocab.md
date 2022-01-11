@@ -90,8 +90,6 @@
 ## Adjectives
 
 - `bakil` - foolish
-- `isp` - small
-- `izl` - bitey, dangerous
 - `forl` - sad
 - `fos` - good
 - `fyla` - late
@@ -99,6 +97,7 @@
 - `holtsh` - true
 - `intarnit` - cursed
 - `iso` - odd, strange (`shor iso`: esolang)
+- `isp` - small
 - `izl` - bitey, dangerous
 - `kun` - cute, pretty
 - `lomu` - surprised
