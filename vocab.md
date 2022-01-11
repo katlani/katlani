@@ -51,6 +51,7 @@
 
 ## Conjunctions
 - `ov` - or
+- `pat` - "that" as in "I said that..."
 
 ## Particles
 - `pas` - Past tense
@@ -60,7 +61,6 @@
 - `su` - Direct object case
 - `lia` - Indirect object case
 - `my` - Genitive case
-- `pat` - "that" as in "I said that..."
 - `li` - converts a word to an adverb
 
 ## Prefixes and Suffixes
