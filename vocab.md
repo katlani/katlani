@@ -58,6 +58,7 @@
 ## Conjunctions
 - `ov` - or
 - `pat` - "that" as in "I said that..."
+- `shusho` - because
 
 ## Particles
 - `pas` - past tense
