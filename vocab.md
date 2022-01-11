@@ -1,7 +1,6 @@
 # Vocabulary
 
 ## Nouns
-
 - `o` - cat
 - `y` - thingy
 - `hiya` - hello
@@ -41,6 +40,7 @@
 - `nai` - To do something (unspecified)
 - `fobl` - To give (can take direct and indirect objects)
 - `iz` - To bite
+- `si` - To be
 
 ## Adverbs
 - `ama` - Too (in the meaning of "me too" or "in addition")
@@ -52,15 +52,13 @@
 - `ta` - Subject case
 - `su` - Direct object case
 - `lia` - Indirect object case
-- `my` - Posession case
+- `my` - Genitive case
 - `pat` - "that" as in "I said that..."
-- `si` - Is
 
 ## Prefixes and Suffixes
 - `no-` - Negation prefix
 - `-i` - Intensification suffix
 - `-u` - Negation suffix
-
 
 ## Pronouns
 - `mi` - First person pronoun
