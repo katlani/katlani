@@ -41,6 +41,9 @@
 - `fobl` - To give (can take direct and indirect objects)
 - `iz` - To bite
 - `si` - To be
+- `nistaha` - to look
+- `sabao` - to cause
+- `gust` - to like
 
 ## Adverbs
 - `ama` - Too (in the meaning of "me too" or "in addition")
@@ -54,6 +57,7 @@
 - `lia` - Indirect object case
 - `my` - Genitive case
 - `pat` - "that" as in "I said that..."
+- `li` - converts a word to an adverb
 
 ## Prefixes and Suffixes
 - `no-` - Negation prefix
@@ -72,10 +76,9 @@
 - `sy` - yes
 - `no` - no
 - `yps` - Oops!
-- `no gust` - I don't like it
-- `sy gust` - I like it
 - `aaaaa` - I am in pain
 - `maka` - Hey everyone!
 - `makima` - Me too
 - `makai` - All of you
 - `foka` - ಠ_ಠ
+- `hyhy` - *laughing*
