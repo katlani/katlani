@@ -61,6 +61,7 @@
 - `pasrus` - yesterday
 
 ## Conjunctions
+- `a` - and
 - `ov` - or
 - `pat` - "that" as in "I said that..."
 - `shusho` - because
