@@ -19,7 +19,9 @@
 - `kivsk` - parent
 - `ksik` - child
 - `rus` - day
+- `pasrus` - yesterday
 - `nirus` - today
+- `fyrus` - tomorrow
 
 ## Adjectives
 - `izl` - dangerous
@@ -56,7 +58,9 @@
 
 ## Adverbs
 - `ama` - too (in the meaning of "me too" or "in addition")
+- `pasrus` - yesterday
 - `nirus` - today
+- `fyrus` - tomorrow
 
 ## Conjunctions
 - `ov` - or
