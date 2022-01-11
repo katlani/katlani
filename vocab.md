@@ -50,6 +50,7 @@
 - `sabao` - to cause
 - `gust` - to like
 - `gangip` - to guess, assume
+- `sitsyli` - to laugh
 
 ## Adverbs
 - `ama` - too (in the meaning of "me too" or "in addition")
