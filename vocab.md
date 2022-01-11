@@ -44,6 +44,7 @@
 - `nistaha` - to look
 - `sabao` - to cause
 - `gust` - to like
+- `gangip` - to guess, assume
 
 ## Adverbs
 - `ama` - Too (in the meaning of "me too" or "in addition")
