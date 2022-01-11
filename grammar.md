@@ -20,12 +20,16 @@
             - `my` - genitive (see below for possessives)
             - If there is no case marker, it is presumed to be accusative
         - The noun itself
+            - `no` prefix negates the meaning
             - Pluralisation ending:
                 - None for singular
                 - `i` for a few
                 - `ii` for many
                 - `iii` for *too* many
         - Adjectives
+            - `no` prefix negates the meaning
+            - `u` prefix also negates the meaning; which affix is used is generally dependent on the verb
+            - `i` suffix intensifies
         - Optionally, if the noun is the possessee:
             - Another noun phrase representing the possessor; its case marker must be `my`
  ## Tips

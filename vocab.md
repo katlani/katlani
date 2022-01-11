@@ -72,7 +72,9 @@
 
 ## Prefixes and Suffixes
 - `no-` - negation prefix
-- `-i` - intensification suffix
+- `-i`:
+    - adverbs, adjectives: intensification suffix
+    - nouns: pluralisation suffix
 - `-u` - negation suffix
 
 ## Pronouns
