@@ -14,7 +14,7 @@
 - `bit` - bit
 - `byt` - byte
 - `baka` - fool, idiot
-- `caminar` - walk
+- `kaminar` - walk
 - `ktomish` - food
 - `kivsk` - parent
 - `ksik` - child
@@ -32,12 +32,12 @@
 - `lomu` - surprised
 - `forl` - sad
 - `tiksias` - cold
-- `seksy` - hot
+- `siksy` - hot
 
 ## Verbs
 - `pxgr` (pronounced "puxegger") - to verbosify/explain
 - `alo` - to jump
-- `kloc` - to play
+- `klok` - to play
 - `ktom` - to eat
 - `varir` - to define (a word)
 - `sus` - to be suspicious
