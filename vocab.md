@@ -34,7 +34,7 @@
 - `oro` (pronounced "owo") - bad
 - `po` - feeling okay (use -i or -u for happy or sad)
 - `siksy` - hot
-- `susin` - suspicious
+- `sus` - suspicious
 - `tiksias` - cold
 
 ## Verbs
@@ -51,7 +51,7 @@
 - `sabao` - to cause
 - `si` - to be
 - `sitsyli` - to laugh
-- `sus` - to be suspicious
+- `susin` - to suspect
 - `varir` - to define (a word)
 
 ## Adverbs
