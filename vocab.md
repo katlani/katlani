@@ -96,9 +96,6 @@
 - `aaaaa` - I am in pain
 - `foka` - ಠ_ಠ
 - `hyhy` - *laughing*
-- `maka` - hey everyone!
-- `makai` - all of you
-- `makima` - me too
 - `no` - no
 - `no gust` - I don't like it
 - `sy` - yes
