@@ -41,7 +41,7 @@
 - `alo` - to jump
 - `fobl` - to give (can take direct and indirect objects)
 - `gangip` - to guess, assume
-- `gust` - to like
+- `gus` - to like
 - `hada` - to say something
 - `iz` - to bite
 - `klok` - to play
@@ -98,5 +98,7 @@
 - `makai` - all of you
 - `makima` - me too
 - `no` - no
+- `no gust` - I don't like it
 - `sy` - yes
+- `sy gust` - I like it
 - `yps` - oops!
