@@ -25,6 +25,7 @@
 - `susin` - Suspicious
 - `vaiksal` - Bad (sarcastic)
 - `oro` (pronounced "owo") - Bad
+- `fos` - good
 - `intarnit` - Cursed
 - `po` - Feeling okay (use -i or -u for happy or sad)
 - `holt` - Fast
