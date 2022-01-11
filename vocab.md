@@ -72,6 +72,7 @@
 - `my` - genitive case
 - `ni` - present tense
 - `pas` - past tense
+- `sik` - *per se*; e.g., `sik fos` means "The word `fos`"
 - `su` - direct object case
 - `ta` - subject case
 
