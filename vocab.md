@@ -18,6 +18,8 @@
 - `ktomish` - food
 - `kivsk` - parent
 - `ksik` - child
+- `rus` - day
+- `nirus` - today
 
 ## Adjectives
 - `izl` - dangerous
@@ -54,6 +56,7 @@
 
 ## Adverbs
 - `ama` - too (in the meaning of "me too" or "in addition")
+- `nirus` - today
 
 ## Conjunctions
 - `ov` - or
