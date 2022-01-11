@@ -10,6 +10,8 @@
         - Can be omitted and inferred from context (if the whole story is in past tense, it's unlikely to change). With no context, generally assumed to be present-tense
         - Normally goes directly after the verb
     - Adverbs
+        - Some adverbs are words on their own
+        - Other adverbs are formed with the particle `li`, which prefixes a word (typically an adjective) to convert it to an adverb
     - Noun phrases, composed of (in order):
         - First, an optional case marker:
             - `ta` - subject (accusative). Should be used to disambiguate only as necessary
