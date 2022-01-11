@@ -27,7 +27,6 @@
 - `izl` - dangerous
 - `opb` (pronounced "ope") - big
 - `susin` - suspicious
-- `vaiksal` - bad (sarcastic)
 - `oro` (pronounced "owo") - bad
 - `fos` - good
 - `intarnit` - cursed
@@ -39,7 +38,6 @@
 - `siksy` - hot
 
 ## Verbs
-- `pxgr` (pronounced "puxegger") - to verbosify/explain
 - `alo` - to jump
 - `klok` - to play
 - `ktom` - to eat
