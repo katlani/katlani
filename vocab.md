@@ -76,6 +76,7 @@ Nouns
 * `tuvung` - lexicon
 * `voldl` - student
 * `srirad` - Part of one's body
+* `taika` - Text
 * `tura` - Turing machine
 * `rilifior` - air conditioner
 * `akniton` - supermarket
@@ -110,6 +111,7 @@ Nouns
 * `drarkak` - unfulfilled promise
 * `abikis` - Bus
 * `gongul` - a regret
+* `fridka` - Formatting
 * `fully` - shortage
 * `fidrtuvong` - coroner
 * `fa` - law, principle, theorem
@@ -176,6 +178,7 @@ Verbs
 * `danshin` - To worry about a mistake one made
 * `malist` - to sing
 * `konlang` - construct a language
+* `kosisa` - To try
 * `kukduku` - To crow (like a rooster)
 * `kaizi` - look up information on the internet
 * `gongula` - to regret
@@ -187,6 +190,7 @@ Adjectives
 ----------
 
 
+* `tiratshi` - Italicized
 * `tsiaro` - Blue
 * `bakil` - foolish
 * `forl` - sad
@@ -217,6 +221,7 @@ Adjectives
 * `spamrati` - Annoying
 * `tantomtam` - perfect
 * `tiksias` - cold
+* `ssasas` - boring
 * `sans` - Outside of, not within, away from
 * `shiroi` - White
 * `falapi` - beautiful
@@ -226,6 +231,7 @@ Adjectives
 * `oontsa` - Tall
 * `kriatif` - creative
 * `kanon` - typical, canonical
+* `sffy` - smelly (in a bad way)
 * `shiro` - White
 * `potzny` - powerful
 * `kantshon` - picky
