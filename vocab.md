@@ -81,6 +81,8 @@ Nouns
 * `rigiks` - regex
 * `pirishy` - death
 * `rompus` - excel (program)
+* `shuksor` - School
+* `pouk` - pancake
 * `spamra` - Nuisance
 * `noguna` - Ground, earth
 * `marinolus` - leader
@@ -92,6 +94,7 @@ Nouns
 * `mutka` - Fist
 * `bsdnt` - crap, sh*t, general expletive
 * `drarkak` - unfulfilled promise
+* `abikis` - Bus
 * `gongul` - a regret
 
 
@@ -136,12 +139,14 @@ Verbs
 * `konfin` - to catch
 * `spamir` - To throw or shoot
 * `sloligima` - to lead
+* `savaro` - To take (a bus, car), to ride
 * `varis` - to be defined as
 * `romp` - to excel (at something)
 * `samsha` - To add, to append
 * `roga` - To be able to, allowed to
 * `nork` - to attack
 * `pirish` - die
+* `miandir` - babble
 * `putsho` - To ask
 * `la` - law
 * `danshin` - To worry about a mistake one made
@@ -193,7 +198,10 @@ Adjectives
 * `niao` - Cool, nice, interesting
 * `oontsa` - Tall
 * `kriatif` - creative
+* `kanon` - typical, canonical
 * `shiro` - White
+* `potzny` - powerful
+* `ngaitir` - naive
 * `infa` - Impossible
 * `gulu` - Yellow
 * `fosnai` - Ethical
@@ -238,6 +246,7 @@ Interjections
 * `rar` - er, um, indecisive sound
 * `pnptpkr` - Can you repeat that, I didn't understand you
 * `noni` - what???!?! (shocked/surprised)
+* `iom` - Yum!
 * `hihgbha` - I am angry/frustrated
 * `aya` - tsk (disapproval)
 * `aigu` - Ouch (interjection)
