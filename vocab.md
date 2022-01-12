@@ -80,6 +80,7 @@ Nouns
 * `ronta` - opportunity
 * `rigiks` - regex
 * `pirishy` - death
+* `rompus` - excel (program)
 * `spamra` - Nuisance
 * `noguna` - Ground, earth
 * `marinolus` - leader
@@ -234,6 +235,7 @@ Interjections
 * `sysaliny` - Please
 * `shi` - Interjection
 * `rgksp` - Frick (interjection)
+* `rar` - er, um, indecisive sound
 * `pnptpkr` - Can you repeat that, I didn't understand you
 * `noni` - what???!?! (shocked/surprised)
 * `hihgbha` - I am angry/frustrated
