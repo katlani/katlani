@@ -73,7 +73,9 @@ Nouns
 * `floria` - plant / flower
 * `gogzo` - Work, outcome (as in "the work you did")
 * `sutka` - Escape
+* `tuvung` - lexicon
 * `voldl` - student
+* `srirad` - Part of one&#39;s body
 * `tura` - Turing machine
 * `rilifior` - air conditioner
 * `akniton` - supermarket
@@ -83,25 +85,37 @@ Nouns
 * `rompus` - excel (program)
 * `shuksor` - School
 * `pouk` - pancake
+* `produty` - explosion
 * `spamra` - Nuisance
 * `noguna` - Ground, earth
 * `marinolus` - leader
 * `movogal` - animal
 * `nolif` - a gamer
 * `papin` - Sin
+* `ntt` - obvious
+* `noopos` - impossible
 * `gutka` - Tobacco
 * `mim` - meme
+* `makina` - Machine
 * `mutka` - Fist
+* `muratshi` - Chicken
+* `kotsh` - A car
+* `lgra` - sword
+* `konma` - ghost
+* `korova` - cow
 * `bsdnt` - crap, sh*t, general expletive
 * `drarkak` - unfulfilled promise
 * `abikis` - Bus
 * `gongul` - a regret
+* `fa` - law, principle, theorem
 
 
 Verbs
 -----
 
 
+* `zaima` - decipher
+* `vuotmat` - surpass, exceed
 * `alo` - to jump
 * `aksi` - to come, approach
 * `avaza` - to make a sound
@@ -140,7 +154,9 @@ Verbs
 * `spamir` - To throw or shoot
 * `sloligima` - to lead
 * `savaro` - To take (a bus, car), to ride
+* `tuvong` - die of an illness or a poisonous substance
 * `varis` - to be defined as
+* `tuhoi` - revoke, take something back
 * `romp` - to excel (at something)
 * `samsha` - To add, to append
 * `roga` - To be able to, allowed to
@@ -153,8 +169,10 @@ Verbs
 * `malist` - to sing
 * `konlang` - construct a language
 * `kukduku` - To crow (like a rooster)
+* `kaizi` - look up information on the internet
 * `gongula` - to regret
 * `bloim` - to grow
+* `a` - build
 
 
 Adjectives
@@ -189,6 +207,7 @@ Adjectives
 * `fian` - Male
 * `shako` - messy/disorganized
 * `spamrati` - Annoying
+* `tantomtam` - perfect
 * `tiksias` - cold
 * `sans` - Outside of, not within, away from
 * `shiroi` - White
@@ -201,7 +220,9 @@ Adjectives
 * `kanon` - typical, canonical
 * `shiro` - White
 * `potzny` - powerful
+* `kantshon` - picky
 * `ngaitir` - naive
+* `haitshiu` - bidirectional
 * `infa` - Impossible
 * `gulu` - Yellow
 * `fosnai` - Ethical
@@ -240,6 +261,7 @@ Interjections
 * `sy` - Yes
 * `sy gust` - I like it
 * `yps` - Oops!
+* `tanitomitami` - perfect, in a sarcastic way
 * `sysaliny` - Please
 * `shi` - Interjection
 * `rgksp` - Frick (interjection)
