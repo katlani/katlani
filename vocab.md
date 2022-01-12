@@ -97,7 +97,7 @@ Nouns
 * `rilifior` - air conditioner
 * `rno` - fruit
 * `ronta` - opportunity
-* `rus` - shor
+* `rus` - day
 * `saman` - part of day
 * `sasa` - Away, a distant place
 * `shor` - language
