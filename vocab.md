@@ -74,9 +74,12 @@ Nouns
 * `gogzo` - Work, outcome (as in "the work you did")
 * `sutka` - Escape
 * `tuvung` - lexicon
+* `vintzi` - Problem, issue
+* `voda` - vodka
 * `voldl` - student
 * `srirad` - Part of one's body
 * `taika` - Text
+* `tizingso` - Adverb
 * `tura` - Turing machine
 * `rilifior` - air conditioner
 * `akniton` - supermarket
@@ -88,6 +91,7 @@ Nouns
 * `pouk` - pancake
 * `produty` - explosion
 * `spamra` - Nuisance
+* `shuan` - Reason, purpose
 * `noguna` - Ground, earth
 * `marinolus` - leader
 * `movogal` - animal
@@ -102,13 +106,17 @@ Nouns
 * `marta` - Building
 * `mingso` - Noun
 * `muratshi` - Chicken
+* `lungurbyodmikosoilonsoladonisoi` - pneumonoultramicroscopicsilicovolcanoconiosis
 * `kotsh` - A car
 * `lgra` - sword
+* `ksuzi` - Sentence
 * `konma` - ghost
 * `gratbt` - superhero
+* `kisongso` - Adjective
 * `korova` - cow
 * `gosio` - Announcement
 * `iomshuksor` - cooking school
+* `has` - adverb
 * `bsdnt` - crap, sh*t, general expletive
 * `drarkak` - unfulfilled promise
 * `abikis` - Bus
@@ -128,6 +136,8 @@ Verbs
 -----
 
 
+* `yzo` - Like oto, but vi instead of my
+* `zailia` - to demonstrate or show to
 * `zaima` - decipher
 * `vuotmat` - surpass, exceed
 * `alo` - to jump
@@ -170,6 +180,7 @@ Verbs
 * `savaro` - To take (a bus, car), to ride
 * `tuvong` - die of an illness or a poisonous substance
 * `varis` - to be defined as
+* `sypsrik` - to translate
 * `tuhoi` - revoke, take something back
 * `romp` - to excel (at something)
 * `samsha` - To add, to append
@@ -184,8 +195,10 @@ Verbs
 * `konlang` - construct a language
 * `kosisa` - To try
 * `kukduku` - To crow (like a rooster)
+* `hal` - Avoid
 * `kaizi` - look up information on the internet
 * `dingdai` - Wait
+* `ditsum` - To use (a word, or figure of speech)
 * `gongula` - to regret
 * `bloim` - to grow
 * `a` - build
@@ -238,8 +251,10 @@ Adjectives
 * `kanon` - typical, canonical
 * `sffy` - smelly (in a bad way)
 * `shiro` - White
+* `oad` - dead
 * `potzny` - powerful
 * `kantshon` - picky
+* `iny` - Demonstrative adjective, if that makes sense
 * `ngaitir` - naive
 * `haitshiu` - bidirectional
 * `infa` - Impossible
@@ -262,6 +277,7 @@ Adjectives
 * `borak` - Black
 * `asikiz` - Fun
 * `boir` - Female
+* `asny` - Demonstrative adjective (pasny)
 
 
 Interjections
@@ -305,7 +321,10 @@ Adverbs
 **Tense:**
 
 
+* `sysaliny` - Please (adv form)
+* `tai` - Too (too big, too many, etc.)
 * `pas` - past
+* `minmu` - too (too few, too letter, etc.)
 * `ni` - present (optional)
 * `fy` - future
 
