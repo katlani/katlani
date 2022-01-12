@@ -53,13 +53,24 @@ Nouns
 * `tipstor` - thief, impostor
 * `toto` - rain
 * `uboiak` - tomato
+* `shyba` - duck
+* `aypal` - spaghetti
 * `y` - thing (any thing or person)
+* `spamt` - shot
+* `kromir` - money
+* `sasa` - Away, a distant place
+* `gogu` - Meat
+* `horrib` - bird
+* `nors` - Water
+* `hisi` - trickster, prankster, mischievous person
+* `floria` - plant / flower
 
 
 Verbs
 -----
 
 
+* `voldl` - student
 * `alo` - to jump
 * `aksi` - to come, approach
 * `avaza` - to make a sound
@@ -94,13 +105,24 @@ Verbs
 * `susin` - to have suspicions about
 * `ask` - to ask
 * `kiso` - to ask
+* `konfin` - to catch
+* `spamir` - To throw or shoot
 * `varis` - to be defined as
+* `samsha` - To add, to append
+* `roga` - To be able to, allowed to
+* `putsho` - To ask
+* `la` - law
+* `malist` - to sing
+* `orni` - urine
+* `bloim` - to grow
+* `fidr` - researcher
 
 
 Adjectives
 ----------
 
 
+* `tsiaro` - Blue
 * `bakil` - foolish
 * `forl` - sad
 * `fos` - good
@@ -126,7 +148,20 @@ Adjectives
 * `sos` - any
 * `sus` - arousing suspicion
 * `fian` - Male
+* `shako` - messy/disorganized
 * `tiksias` - cold
+* `sans` - Outside of, not within, away from
+* `shiroi` - White
+* `falapi` - beautiful
+* `ntsuab` - Green
+* `krvina` - Red
+* `shiro` - White
+* `gulu` - Yellow
+* `bork` - broken (not working)
+* `aksiaksi` - Friendly (of a place), welcoming, homely
+* `bugl` - beige
+* `buraku` - Black
+* `borak` - Black
 
 
 Interjections
@@ -150,6 +185,8 @@ Interjections
 * `sy` - Yes
 * `sy gust` - I like it
 * `yps` - Oops!
+* `pnptpkr` - Can you repeat that, I didn&#39;t understand you
+* `noni` - what???!?! (shocked/surprised)
 
 
 Adverbs
@@ -200,6 +237,7 @@ Conjunctions
 * `kashi` - but
 * `ov` - or
 * `pat` - that ("I said that...", also used similarly to the "to" in "I want to...")
+* `isabahi` - Instead of, in place of
 * `shushu` - because
 
 
