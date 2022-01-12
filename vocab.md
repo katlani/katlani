@@ -75,7 +75,7 @@ Nouns
 * `sutka` - Escape
 * `tuvung` - lexicon
 * `voldl` - student
-* `srirad` - Part of one&#39;s body
+* `srirad` - Part of one's body
 * `tura` - Turing machine
 * `rilifior` - air conditioner
 * `akniton` - supermarket
@@ -98,16 +98,24 @@ Nouns
 * `mim` - meme
 * `makina` - Machine
 * `mutka` - Fist
+* `marta` - Building
 * `muratshi` - Chicken
 * `kotsh` - A car
 * `lgra` - sword
 * `konma` - ghost
+* `gratbt` - superhero
 * `korova` - cow
+* `iomshuksor` - cooking school
 * `bsdnt` - crap, sh*t, general expletive
 * `drarkak` - unfulfilled promise
 * `abikis` - Bus
 * `gongul` - a regret
+* `fully` - shortage
+* `fidrtuvong` - coroner
 * `fa` - law, principle, theorem
+* `boirfian` - couple in a romantic/sexual relationship
+* `baklait` - prerequisite
+* `boraky` - privacy
 
 
 Verbs
@@ -227,7 +235,9 @@ Adjectives
 * `gulu` - Yellow
 * `fosnai` - Ethical
 * `ginko` - Brave
+* `full` - short
 * `futka` - Stupid
+* `fully` - shortage
 * `foskod` - Clean
 * `bork` - broken (not working)
 * `dank` - Dank
@@ -235,6 +245,7 @@ Adjectives
 * `aksiaksi` - Friendly (of a place), welcoming, homely
 * `bugl` - beige
 * `buraku` - Black
+* `borakshiro` - clear cut, leaving no room for interpretation
 * `agaai` - Spicy
 * `borak` - Black
 * `boir` - Female
