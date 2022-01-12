@@ -14,6 +14,7 @@ Nouns
 * `byt` - byte
 * `diga` - ninja
 * `dogo` - dog
+* `fidr` - researcher
 * `fylo` - later
 * `fyrus` - tomorrow
 * `gogi` - meat
@@ -41,6 +42,7 @@ Nouns
 * `o` - cat
 * `ogig` - park
 * `onion` - opinion
+* `orni` - urine
 * `paslo` - earlier
 * `pasrus` - tomorrow
 * `polr` - salad
@@ -64,13 +66,13 @@ Nouns
 * `nors` - Water
 * `hisi` - trickster, prankster, mischievous person
 * `floria` - plant / flower
+* `voldl` - student
 
 
 Verbs
 -----
 
 
-* `voldl` - student
 * `alo` - to jump
 * `aksi` - to come, approach
 * `avaza` - to make a sound
@@ -113,9 +115,7 @@ Verbs
 * `putsho` - To ask
 * `la` - law
 * `malist` - to sing
-* `orni` - urine
 * `bloim` - to grow
-* `fidr` - researcher
 
 
 Adjectives
@@ -239,6 +239,15 @@ Conjunctions
 * `pat` - that ("I said that...", also used similarly to the "to" in "I want to...")
 * `isabahi` - Instead of, in place of
 * `shushu` - because
+
+
+Prepositions
+------------
+
+* `ans` - Within, inside, at
+* `lait` - For, for the purpose of, in order to
+* `sans` - Outside of, not within, away from
+* `yns` - on
 
 
 Pronouns
