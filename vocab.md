@@ -15,9 +15,8 @@ Nouns
 * `boirfian` - couple in a romantic/sexual relationship
 * `boraky` - privacy
 * `borsh` - soup
-* `bsdnt` - crap, sh*t, general expletive
+* `bsdnt` - crap, shit, general expletive
 * `byt` - byte
-* `darvaza` - The irrational fear that when you open your laptop in class, it will start playing loud sound
 * `diga` - ninja
 * `dogo` - dog
 * `dongso` - Verb
@@ -62,7 +61,6 @@ Nouns
 * `ktomish` - food
 * `lan` - word
 * `lgra` - sword
-* `lungurbyodmikosoilonsoladonisoi` - pneumonoultramicroscopicsilicovolcanoconiosis
 * `mak` - person
 * `makina` - Machine
 * `marinolus` - leader
@@ -79,7 +77,6 @@ Nouns
 * `nilo` - now
 * `nirus` - today
 * `noguna` - Ground, earth
-* `nolif` - a gamer
 * `noopos` - impossible
 * `nors` - Water
 * `ntt` - obvious
@@ -98,7 +95,6 @@ Nouns
 * `rigiks` - regex
 * `rilifior` - air conditioner
 * `rno` - fruit
-* `rompus` - excel (program)
 * `ronta` - opportunity
 * `rus` - shor
 * `saman` - part of day
