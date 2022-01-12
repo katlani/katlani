@@ -236,6 +236,7 @@ Interjections
 * `rgksp` - Frick (interjection)
 * `pnptpkr` - Can you repeat that, I didn't understand you
 * `noni` - what???!?! (shocked/surprised)
+* `hihgbha` - I am angry/frustrated
 * `aya` - tsk (disapproval)
 * `aigu` - Ouch (interjection)
 
