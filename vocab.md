@@ -84,6 +84,7 @@ Nouns
 * `noguna` - Ground, earth
 * `marinolus` - leader
 * `movogal` - animal
+* `nolif` - a gamer
 * `papin` - Sin
 * `gutka` - Tobacco
 * `mim` - meme
@@ -135,6 +136,7 @@ Verbs
 * `spamir` - To throw or shoot
 * `sloligima` - to lead
 * `varis` - to be defined as
+* `romp` - to excel (at something)
 * `samsha` - To add, to append
 * `roga` - To be able to, allowed to
 * `nork` - to attack
