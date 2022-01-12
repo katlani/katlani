@@ -130,6 +130,7 @@ Nouns
 * `vodl` - world
 * `toay` - bitwise
 * `ak` - country
+* `mainkraft` - Minecraft
 * `shutrak` - Country, nation
 
 
@@ -374,7 +375,9 @@ Conjunctions
 * `ov` - or
 * `pat` - that ("I said that...", also used similarly to the "to" in "I want to...")
 * `shushu` - because
-- `yg` - so, therefore
+
+
+* `yg` - so, therefore
 
 
 Prepositions
