@@ -30,4 +30,4 @@ Numbers are formed with a number of pairs of a digit and power of ten. For examp
 
 On its own, `ino` is `2`, but `ino kik` is `2000`. On their own, powers of ten like `kik` also work as numbers.
 
-You can use the ordinal particle, `ry`, to add a "th" to the number. For example, `ry ato` is "fifth", `ry ifo kid` if "eight hundredth", `ry ano` is "first", and `ry kon` is "one quadrillionth".
+You can use the ordinal particle, `ry`, to add a "th" to the number, making it an adjective. For example, `ry ato` is "fifth", `ry ifo kid` if "eight hundredth", `ry ano` is "first", and `ry kon` is "one quadrillionth".
