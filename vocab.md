@@ -263,7 +263,7 @@ Adjectives
 * `op` - big
 * `oro` - bad
 * `pasla` - early
-* `po`- okay (a feeling/emotion)
+* `po` - okay (a feeling/emotion)
 * `poi` - happy
 * `potzny` - powerful
 * `sans` - Outside of, not within, away from
