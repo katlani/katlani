@@ -60,6 +60,7 @@ Nouns
 * `ksuzi` - Sentence
 * `ktaf` - book
 * `ktomish` - food
+* `la` - [the] law
 * `lan` - word
 * `lgra` - sword
 * `mak` - person
@@ -170,7 +171,6 @@ Verbs
 * `ksoi` - to know
 * `ktom` - to eat
 * `kukduku` - To crow (like a rooster)
-* `la` - law
 * `malist` - to sing
 * `miandir` - babble
 * `nai` - to do (anything)
