@@ -6,6 +6,9 @@ Nouns
 -----
 
 
+* `yntsh` - Syllable
+* `zombi` - Zombie
+* `zimdo` - Letter (of the alphabet)
 * `abail` - house
 * `baka` - fool, idiot
 * `banli` - vegetable
@@ -58,6 +61,7 @@ Nouns
 * `shyba` - duck
 * `aypal` - spaghetti
 * `y` - thing (any thing or person)
+* `vontark` - a question
 * `spamt` - shot
 * `kromir` - money
 * `sasa` - Away, a distant place
@@ -66,7 +70,15 @@ Nouns
 * `nors` - Water
 * `hisi` - trickster, prankster, mischievous person
 * `floria` - plant / flower
+* `gogzo` - Work, outcome (as in &quot;the work you did&quot;)
 * `voldl` - student
+* `rilifior` - air conditioner
+* `akniton` - supermarket
+* `spamra` - Nuisance
+* `noguna` - Ground, earth
+* `marinolus` - leader
+* `papin` - Sin
+* `gongul` - a regret
 
 
 Verbs
@@ -109,12 +121,16 @@ Verbs
 * `kiso` - to ask
 * `konfin` - to catch
 * `spamir` - To throw or shoot
+* `sloligima` - to lead
 * `varis` - to be defined as
 * `samsha` - To add, to append
 * `roga` - To be able to, allowed to
 * `putsho` - To ask
 * `la` - law
+* `danshin` - To worry about a mistake one made
 * `malist` - to sing
+* `kukduku` - To crow (like a rooster)
+* `gongula` - to regret
 * `bloim` - to grow
 
 
@@ -149,15 +165,22 @@ Adjectives
 * `sus` - arousing suspicion
 * `fian` - Male
 * `shako` - messy/disorganized
+* `spamrati` - Annoying
 * `tiksias` - cold
 * `sans` - Outside of, not within, away from
 * `shiroi` - White
 * `falapi` - beautiful
 * `ntsuab` - Green
 * `krvina` - Red
+* `niao` - Cool, nice, interesting
 * `shiro` - White
+* `infa` - Impossible
 * `gulu` - Yellow
+* `fosnai` - Ethical
+* `ginko` - Brave
+* `foskod` - Clean
 * `bork` - broken (not working)
+* `dank` - Dank
 * `aksiaksi` - Friendly (of a place), welcoming, homely
 * `bugl` - beige
 * `buraku` - Black
@@ -185,8 +208,12 @@ Interjections
 * `sy` - Yes
 * `sy gust` - I like it
 * `yps` - Oops!
-* `pnptpkr` - Can you repeat that, I didn&#39;t understand you
+* `sysaliny` - Please
+* `rgksp` - Frick (interjection)
+* `pnptpkr` - Can you repeat that, I didn't understand you
 * `noni` - what???!?! (shocked/surprised)
+* `aya` - tsk (disapproval)
+* `aigu` - Ouch (interjection)
 
 
 Adverbs
@@ -243,6 +270,7 @@ Conjunctions
 
 Prepositions
 ------------
+
 
 * `ans` - Within, inside, at
 * `lait` - For, for the purpose of, in order to
