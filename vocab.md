@@ -86,6 +86,7 @@ Nouns
 * `gutka` - Tobacco
 * `mutka` - Fist
 * `bsdnt` - crap, sh*t, general expletive
+* `drarkak` - unfulfilled promise
 * `gongul` - a regret
 
 
@@ -138,6 +139,7 @@ Verbs
 * `la` - law
 * `danshin` - To worry about a mistake one made
 * `malist` - to sing
+* `konlang` - construct a language
 * `kukduku` - To crow (like a rooster)
 * `gongula` - to regret
 * `bloim` - to grow
