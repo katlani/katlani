@@ -6,6 +6,7 @@ Nouns
 -----
 
 
+* `zorliplak` - hyperlink
 * `yntsh` - Syllable
 * `zombi` - Zombie
 * `zimdo` - Letter (of the alphabet)
@@ -70,14 +71,21 @@ Nouns
 * `nors` - Water
 * `hisi` - trickster, prankster, mischievous person
 * `floria` - plant / flower
-* `gogzo` - Work, outcome (as in &quot;the work you did&quot;)
+* `gogzo` - Work, outcome (as in "the work you did")
+* `sutka` - Escape
 * `voldl` - student
+* `tura` - Turing machine
 * `rilifior` - air conditioner
 * `akniton` - supermarket
+* `ronta` - opportunity
 * `spamra` - Nuisance
 * `noguna` - Ground, earth
 * `marinolus` - leader
+* `movogal` - animal
 * `papin` - Sin
+* `gutka` - Tobacco
+* `mutka` - Fist
+* `bsdnt` - crap, sh*t, general expletive
 * `gongul` - a regret
 
 
@@ -125,6 +133,7 @@ Verbs
 * `varis` - to be defined as
 * `samsha` - To add, to append
 * `roga` - To be able to, allowed to
+* `nork` - to attack
 * `putsho` - To ask
 * `la` - law
 * `danshin` - To worry about a mistake one made
@@ -173,18 +182,23 @@ Adjectives
 * `ntsuab` - Green
 * `krvina` - Red
 * `niao` - Cool, nice, interesting
+* `oontsa` - Tall
 * `shiro` - White
 * `infa` - Impossible
 * `gulu` - Yellow
 * `fosnai` - Ethical
 * `ginko` - Brave
+* `futka` - Stupid
 * `foskod` - Clean
 * `bork` - broken (not working)
 * `dank` - Dank
+* `butka` - Short
 * `aksiaksi` - Friendly (of a place), welcoming, homely
 * `bugl` - beige
 * `buraku` - Black
+* `agaai` - Spicy
 * `borak` - Black
+* `boir` - Female
 
 
 Interjections
@@ -209,6 +223,7 @@ Interjections
 * `sy gust` - I like it
 * `yps` - Oops!
 * `sysaliny` - Please
+* `shi` - Interjection
 * `rgksp` - Frick (interjection)
 * `pnptpkr` - Can you repeat that, I didn't understand you
 * `noni` - what???!?! (shocked/surprised)
