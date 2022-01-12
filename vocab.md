@@ -100,12 +100,14 @@ Nouns
 * `makina` - Machine
 * `mutka` - Fist
 * `marta` - Building
+* `mingso` - Noun
 * `muratshi` - Chicken
 * `kotsh` - A car
 * `lgra` - sword
 * `konma` - ghost
 * `gratbt` - superhero
 * `korova` - cow
+* `gosio` - Announcement
 * `iomshuksor` - cooking school
 * `bsdnt` - crap, sh*t, general expletive
 * `drarkak` - unfulfilled promise
@@ -114,7 +116,9 @@ Nouns
 * `fridka` - Formatting
 * `fully` - shortage
 * `fidrtuvong` - coroner
+* `darvaza` - The irrational fear that when you open your laptop in class, it will start playing loud sound
 * `fa` - law, principle, theorem
+* `dongso` - Verb
 * `boirfian` - couple in a romantic/sexual relationship
 * `baklait` - prerequisite
 * `boraky` - privacy
@@ -181,6 +185,7 @@ Verbs
 * `kosisa` - To try
 * `kukduku` - To crow (like a rooster)
 * `kaizi` - look up information on the internet
+* `dingdai` - Wait
 * `gongula` - to regret
 * `bloim` - to grow
 * `a` - build
@@ -244,6 +249,7 @@ Adjectives
 * `full` - short
 * `futka` - Stupid
 * `fully` - shortage
+* `dulud` - Rude
 * `foskod` - Clean
 * `bork` - broken (not working)
 * `dank` - Dank
@@ -254,6 +260,7 @@ Adjectives
 * `borakshiro` - clear cut, leaving no room for interpretation
 * `agaai` - Spicy
 * `borak` - Black
+* `asikiz` - Fun
 * `boir` - Female
 
 
