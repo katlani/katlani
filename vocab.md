@@ -38,7 +38,6 @@ Nouns
 * `gosio` - Announcement
 * `gratbt` - superhero
 * `gutka` - Tobacco
-* `has` - adverb
 * `hisi` - trickster, prankster, mischievous person
 * `horrib` - bird
 * `hyp` - nerd
