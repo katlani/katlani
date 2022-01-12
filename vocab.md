@@ -15,7 +15,6 @@ Nouns
 * `boirfian` - couple in a romantic/sexual relationship
 * `boraky` - privacy
 * `borsh` - soup
-* `bsdnt` - crap, shit, general expletive
 * `byt` - byte
 * `diga` - ninja
 * `dogo` - dog
