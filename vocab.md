@@ -1,8 +1,10 @@
 Vocabulary
 ==========
 
+
 Nouns
 -----
+
 
 * `abail` - house
 * `abikis` - Bus
@@ -127,10 +129,18 @@ Nouns
 * `yntsh` - Syllable
 * `zimdo` - Letter (of the alphabet)
 * `zombi` - Zombie
+* `atirsi` - Duplicate
+* `atirsin` - Duplicate
 * `zorliplak` - hyperlink
+* `vodl` - world
+* `toay` - bitwise
+* `ak` - country
+* `shutrak` - Country, nation
+
 
 Verbs
 -----
+
 
 * `a` - build
 * `aksi` - to come, approach
@@ -197,10 +207,14 @@ Verbs
 * `vuotmat` - surpass, exceed
 * `yzo` - Like oto, but vi instead of my
 * `zailia` - to demonstrate or show to
+* `shaigi` - To find
+* `kyngru` - To think, to consider, to be pensive
 * `zaima` - decipher
+
 
 Adjectives
 ----------
+
 
 * `agaai` - Spicy
 * `aksiaksi` - Friendly (of a place), welcoming, homely
@@ -271,10 +285,13 @@ Adjectives
 * `tantomtam` - perfect
 * `tiksias` - cold
 * `tiratshi` - Italicized
+* `atir` - another
 * `tsiaro` - Blue
+
 
 Interjections
 -------------
+
 
 * `aaaaa` - I am in pain
 * `aigu` - Ouch (interjection)
@@ -305,40 +322,56 @@ Interjections
 * `tanitomitami` - perfect, in a sarcastic way
 * `yps` - Oops!
 
+
 Adverbs
 -------
 
+
 **Tense:**
+
 
 * `fy` - future
 * `minmu` - too (too few, too letter, etc.)
 * `ni` - present (optional)
 * `pas` - past
 * `sysaliny` - Please (adv form)
+* `atirlo` - another time, again
+* `atzing` - Already
 * `tai` - Too (too big, too many, etc.)
+* `atirnai` - Already
+
 
 **Relative:**
 
+
 * `tshadom` - When
 
+
 **Time:**
+
 
 * `pasrus` - yesterday
 * `nirus` - today
 * `fyrus` - tomorrow
 
+
 **Particle:**
+
 
 * `li` - makes an adjective into an adverb (`li fos`: well)
 
+
 **Other:**
+
 
 * `ama` - too, in addition
 * `imi` - instruction, command
 * `mogusi` - maybe
 
+
 Conjunctions
 ------------
+
 
 * `a` - and
 * `isabahi` - Instead of, in place of
@@ -348,18 +381,23 @@ Conjunctions
 * `pat` - that ("I said that...", also used similarly to the "to" in "I want to...")
 * `shushu` - because
 
+
 Prepositions
 ------------
+
 
 * `ans` - Within, inside, at
 * `lait` - For, for the purpose of, in order to
 * `sans` - Outside of, not within, away from
 * `yns` - on
 
+
 Pronouns
 --------
 
+
 **Personal:**
+
 
 * `ma` - I
 * `mai` - us (non-inclusive)
@@ -368,30 +406,41 @@ Pronouns
 * `maka` - you and I
 * `kai` - you (plural), y'all
 
+
 **Demonstrative:**
+
 
 * `nimak` - Last person brought up
 * `pasmak` - Second-to-last person brought up
 * `niny` - Last inanimate object brought up
 * `pasny` - Second-to-last inanimate object brought up
 
+
 **Interrogative:**
+
 
 * `vash` - When?
 * `vmak` - Who? Which person?
 * `vop` - Where?
 * `vy` - What? Which inanimate object?
 
+
 Particles
 ---------
 
+
 **Casing:**
+
 
 * `ta` - subject/nominative (optional)
 * `su` - direct object/accusative
 * `lia` - indirect object/dative
 * `my` - possession/genitive
 
+
 **Other:**
 
+
 * `sik` - "The word..." (`sik pluvyt` is "the word 'pluvyt'", not "it rains")
+
+
