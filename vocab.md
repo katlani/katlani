@@ -1,290 +1,284 @@
 Vocabulary
 ==========
 
-
 Nouns
 -----
 
-
-* `zorliplak` - hyperlink
-* `yntsh` - Syllable
-* `zombi` - Zombie
-* `zimdo` - Letter (of the alphabet)
 * `abail` - house
+* `abikis` - Bus
+* `akniton` - supermarket
+* `aypal` - spaghetti
 * `baka` - fool, idiot
+* `baklait` - prerequisite
 * `banli` - vegetable
 * `bit` - bit (binary digit)
+* `boirfian` - couple in a romantic/sexual relationship
+* `boraky` - privacy
 * `borsh` - soup
+* `bsdnt` - crap, sh*t, general expletive
 * `byt` - byte
+* `darvaza` - The irrational fear that when you open your laptop in class, it will start playing loud sound
 * `diga` - ninja
 * `dogo` - dog
+* `dongso` - Verb
+* `drarkak` - unfulfilled promise
+* `fa` - law, principle, theorem
 * `fidr` - researcher
+* `fidrtuvong` - coroner
+* `floria` - plant / flower
+* `fridka` - Formatting
+* `fully` - shortage
 * `fylo` - later
 * `fyrus` - tomorrow
 * `gogi` - meat
+* `gogu` - Meat
+* `gogzo` - Work, outcome (as in "the work you did")
+* `gongul` - a regret
 * `gorlb` - apple
+* `gosio` - Announcement
+* `gratbt` - superhero
+* `gutka` - Tobacco
+* `has` - adverb
+* `hisi` - trickster, prankster, mischievous person
+* `horrib` - bird
 * `hyp` - nerd
 * `inglish` - English
+* `iomshuksor` - cooking school
 * `isa` - here
 * `ita` - there
 * `kat` - chat
 * `katlani` - "chat words" (this conlang)
+* `kisongso` - Adjective
 * `kivsk` - parent
-* `ksik` - child
 * `kod` - code
 * `komy` - monkey
+* `konma` - ghost
+* `korova` - cow
+* `kotsh` - A car
+* `kromir` - money
+* `ksik` - child
+* `ksuzi` - Sentence
 * `ktaf` - book
 * `ktomish` - food
 * `lan` - word
+* `lgra` - sword
+* `lungurbyodmikosoilonsoladonisoi` - pneumonoultramicroscopicsilicovolcanoconiosis
 * `mak` - person
+* `makina` - Machine
+* `marinolus` - leader
+* `marta` - Building
 * `matiks` - math(s)
+* `mim` - meme
+* `mingso` - Noun
 * `motkop` - corn
+* `movogal` - animal
+* `muratshi` - Chicken
+* `mutka` - Fist
 * `naita` - internet
 * `ngoirfo` - bread
 * `nilo` - now
 * `nirus` - today
+* `noguna` - Ground, earth
+* `nolif` - a gamer
+* `noopos` - impossible
+* `nors` - Water
+* `ntt` - obvious
 * `o` - cat
 * `ogig` - park
 * `onion` - opinion
 * `orni` - urine
+* `papin` - Sin
 * `paslo` - earlier
 * `pasrus` - tomorrow
+* `pirishy` - death
 * `polr` - salad
+* `pouk` - pancake
+* `produty` - explosion
 * `rak` - place, location
+* `rigiks` - regex
+* `rilifior` - air conditioner
 * `rno` - fruit
+* `rompus` - excel (program)
+* `ronta` - opportunity
 * `rus` - shor
 * `saman` - part of day
-* `shor` - language
-* `sokit` - connection
-* `tipstor` - thief, impostor
-* `toto` - rain
-* `uboiak` - tomato
-* `shyba` - duck
-* `aypal` - spaghetti
-* `y` - thing (any thing or person)
-* `vontark` - a question
-* `spamt` - shot
-* `kromir` - money
 * `sasa` - Away, a distant place
-* `gogu` - Meat
-* `horrib` - bird
-* `nors` - Water
-* `hisi` - trickster, prankster, mischievous person
-* `floria` - plant / flower
-* `gogzo` - Work, outcome (as in "the work you did")
+* `shor` - language
+* `shuan` - Reason, purpose
+* `shuksor` - School
+* `shyba` - duck
+* `sokit` - connection
+* `spamra` - Nuisance
+* `spamt` - shot
+* `srirad` - Part of one's body
 * `sutka` - Escape
+* `taika` - Text
+* `tipstor` - thief, impostor
+* `tizingso` - Adverb
+* `toto` - rain
+* `tura` - Turing machine
 * `tuvung` - lexicon
+* `uboiak` - tomato
 * `vintzi` - Problem, issue
 * `voda` - vodka
 * `voldl` - student
-* `srirad` - Part of one's body
-* `taika` - Text
-* `tizingso` - Adverb
-* `tura` - Turing machine
-* `rilifior` - air conditioner
-* `akniton` - supermarket
-* `ronta` - opportunity
-* `rigiks` - regex
-* `pirishy` - death
-* `rompus` - excel (program)
-* `shuksor` - School
-* `pouk` - pancake
-* `produty` - explosion
-* `spamra` - Nuisance
-* `shuan` - Reason, purpose
-* `noguna` - Ground, earth
-* `marinolus` - leader
-* `movogal` - animal
-* `nolif` - a gamer
-* `papin` - Sin
-* `ntt` - obvious
-* `noopos` - impossible
-* `gutka` - Tobacco
-* `mim` - meme
-* `makina` - Machine
-* `mutka` - Fist
-* `marta` - Building
-* `mingso` - Noun
-* `muratshi` - Chicken
-* `lungurbyodmikosoilonsoladonisoi` - pneumonoultramicroscopicsilicovolcanoconiosis
-* `kotsh` - A car
-* `lgra` - sword
-* `ksuzi` - Sentence
-* `konma` - ghost
-* `gratbt` - superhero
-* `kisongso` - Adjective
-* `korova` - cow
-* `gosio` - Announcement
-* `iomshuksor` - cooking school
-* `has` - adverb
-* `bsdnt` - crap, sh*t, general expletive
-* `drarkak` - unfulfilled promise
-* `abikis` - Bus
-* `gongul` - a regret
-* `fridka` - Formatting
-* `fully` - shortage
-* `fidrtuvong` - coroner
-* `darvaza` - The irrational fear that when you open your laptop in class, it will start playing loud sound
-* `fa` - law, principle, theorem
-* `dongso` - Verb
-* `boirfian` - couple in a romantic/sexual relationship
-* `baklait` - prerequisite
-* `boraky` - privacy
-
+* `vontark` - a question
+* `y` - thing (any thing or person)
+* `yntsh` - Syllable
+* `zimdo` - Letter (of the alphabet)
+* `zombi` - Zombie
+* `zorliplak` - hyperlink
 
 Verbs
 -----
 
-
-* `yzo` - Like oto, but vi instead of my
-* `zailia` - to demonstrate or show to
-* `zaima` - decipher
-* `vuotmat` - surpass, exceed
-* `alo` - to jump
+* `a` - build
 * `aksi` - to come, approach
+* `alo` - to jump
+* `ask` - to ask
 * `avaza` - to make a sound
+* `bloim` - to grow
+* `danshin` - To worry about a mistake one made
+* `dingdai` - Wait
+* `ditsum` - To use (a word, or figure of speech)
 * `fara` - to go
 * `fobl` - to give
 * `gangip` - to guess, assume
 * `golf` - to try to do shortly
+* `gongula` - to regret
 * `gus` - to like
 * `hada` - to say something
+* `hal` - Avoid
 * `iz` - to bite
 * `kahidai` - should
 * `kailan` - to need
+* `kaizi` - look up information on the internet
 * `kaminar` - to walk
 * `kata` - to chat
 * `kbam` - to create
 * `kiro` - to want
+* `kiso` - to ask
 * `klok` - to play
+* `konfin` - to catch
+* `konlang` - construct a language
+* `kosisa` - To try
 * `ksoi` - to know
 * `ktom` - to eat
+* `kukduku` - To crow (like a rooster)
+* `la` - law
+* `malist` - to sing
+* `miandir` - babble
 * `nai` - to do (anything)
 * `nistaha` - to look
+* `nork` - to attack
 * `onin` - to think
 * `oto` - to own, to have
 * `partshana` - to read
+* `pirish` - die
 * `pluvyt` - to rain (impersonal, doesn't take a subject)
+* `putsho` - To ask
+* `roga` - To be able to, allowed to
+* `romp` - to excel (at something)
 * `sabao` - to cause
-* `sitsyli` - to laugh
+* `samsha` - To add, to append
+* `savaro` - To take (a bus, car), to ride
 * `shinpai` - to worry
 * `si` - to be
 * `sitsyli` - to laugh
+* `sitsyli` - to laugh
+* `sloligima` - to lead
+* `spamir` - To throw or shoot
 * `srik` - to write
 * `susin` - to have suspicions about
-* `ask` - to ask
-* `kiso` - to ask
-* `konfin` - to catch
-* `spamir` - To throw or shoot
-* `sloligima` - to lead
-* `savaro` - To take (a bus, car), to ride
-* `tuvong` - die of an illness or a poisonous substance
-* `varis` - to be defined as
 * `sypsrik` - to translate
 * `tuhoi` - revoke, take something back
-* `romp` - to excel (at something)
-* `samsha` - To add, to append
-* `roga` - To be able to, allowed to
-* `nork` - to attack
-* `pirish` - die
-* `miandir` - babble
-* `putsho` - To ask
-* `la` - law
-* `danshin` - To worry about a mistake one made
-* `malist` - to sing
-* `konlang` - construct a language
-* `kosisa` - To try
-* `kukduku` - To crow (like a rooster)
-* `hal` - Avoid
-* `kaizi` - look up information on the internet
-* `dingdai` - Wait
-* `ditsum` - To use (a word, or figure of speech)
-* `gongula` - to regret
-* `bloim` - to grow
-* `a` - build
-
+* `tuvong` - die of an illness or a poisonous substance
+* `varis` - to be defined as
+* `vuotmat` - surpass, exceed
+* `yzo` - Like oto, but vi instead of my
+* `zailia` - to demonstrate or show to
+* `zaima` - decipher
 
 Adjectives
 ----------
 
-
-* `tiratshi` - Italicized
-* `tsiaro` - Blue
+* `agaai` - Spicy
+* `aksiaksi` - Friendly (of a place), welcoming, homely
+* `asikiz` - Fun
+* `asny` - Demonstrative adjective (pasny)
 * `bakil` - foolish
+* `boir` - Female
+* `borak` - Black
+* `borakshiro` - clear cut, leaving no room for interpretation
+* `bork` - broken (not working)
+* `bugl` - beige
+* `buraku` - Black
+* `butka` - Short
+* `dank` - Dank
+* `dulud` - Rude
+* `falapi` - beautiful
+* `fian` - Male
 * `forl` - sad
 * `fos` - good
+* `foskod` - Clean
+* `fosnai` - Ethical
+* `full` - short
+* `fully` - shortage
+* `futka` - Stupid
 * `fyla` - late
+* `ginko` - Brave
+* `gulu` - Yellow
+* `haitshiu` - bidirectional
 * `holt` - fast
 * `holtsh` - true
+* `infa` - Impossible
 * `intarnit` - cursed
+* `iny` - Demonstrative adjective, if that makes sense
 * `iso` - odd, strange (`shor iso`: esolang)
 * `isp` - small
 * `izl` - bitey, dangerous
+* `kanon` - typical, canonical
+* `kantshon` - picky
+* `kriatif` - creative
+* `krvina` - Red
 * `kun` - cute, pretty
 * `lomu` - surprised
+* `ngaitir` - naive
+* `niao` - Cool, nice, interesting
 * `nila` - current, now-ish
 * `nilvan` - obvious
 * `nosos` - no (as in nobody, nothing, no such)
+* `ntsuab` - Green
+* `oad` - dead
+* `oontsa` - Tall
 * `op` - big
 * `oro` - bad
 * `pasla` - early
 * `po`- okay (a feeling/emotion)
 * `poi` - happy
+* `potzny` - powerful
+* `sans` - Outside of, not within, away from
+* `sffy` - smelly (in a bad way)
+* `shako` - messy/disorganized
 * `shin` - new
+* `shiro` - White
+* `shiroi` - White
 * `siksy` - hot
 * `sos` - any
-* `sus` - arousing suspicion
-* `fian` - Male
-* `shako` - messy/disorganized
 * `spamrati` - Annoying
+* `ssasas` - boring
+* `sus` - arousing suspicion
 * `tantomtam` - perfect
 * `tiksias` - cold
-* `ssasas` - boring
-* `sans` - Outside of, not within, away from
-* `shiroi` - White
-* `falapi` - beautiful
-* `ntsuab` - Green
-* `krvina` - Red
-* `niao` - Cool, nice, interesting
-* `oontsa` - Tall
-* `kriatif` - creative
-* `kanon` - typical, canonical
-* `sffy` - smelly (in a bad way)
-* `shiro` - White
-* `oad` - dead
-* `potzny` - powerful
-* `kantshon` - picky
-* `iny` - Demonstrative adjective, if that makes sense
-* `ngaitir` - naive
-* `haitshiu` - bidirectional
-* `infa` - Impossible
-* `gulu` - Yellow
-* `fosnai` - Ethical
-* `ginko` - Brave
-* `full` - short
-* `futka` - Stupid
-* `fully` - shortage
-* `dulud` - Rude
-* `foskod` - Clean
-* `bork` - broken (not working)
-* `dank` - Dank
-* `butka` - Short
-* `aksiaksi` - Friendly (of a place), welcoming, homely
-* `bugl` - beige
-* `buraku` - Black
-* `borakshiro` - clear cut, leaving no room for interpretation
-* `agaai` - Spicy
-* `borak` - Black
-* `asikiz` - Fun
-* `boir` - Female
-* `asny` - Demonstrative adjective (pasny)
-
+* `tiratshi` - Italicized
+* `tsiaro` - Blue
 
 Interjections
 -------------
 
-
 * `aaaaa` - I am in pain
+* `aigu` - Ouch (interjection)
+* `aya` - tsk (disapproval)
 * `bai` - Bye!
 * `baia` - Bye! (sometimes spelled `biya`)
 * `bomy` - Ooh!
@@ -292,143 +286,112 @@ Interjections
 * `fosaksi` - Welcome!
 * `hai` - Hi!
 * `haia` - Hi! Hey! (sometimes spelled `hiya`)
+* `hihgbha` - I am angry/frustrated
 * `hobla` - okay
 * `hyhy` - laughing
+* `iom` - Yum!
 * `lol` - lol!
 * `nilvan` - Obviously
-* `no` - No
 * `no gust` - I don't like it
-* `sy` - Yes
-* `sy gust` - I like it
-* `yps` - Oops!
-* `tanitomitami` - perfect, in a sarcastic way
-* `sysaliny` - Please
-* `shi` - Interjection
-* `rgksp` - Frick (interjection)
-* `rar` - er, um, indecisive sound
-* `pnptpkr` - Can you repeat that, I didn't understand you
+* `no` - No
 * `noni` - what???!?! (shocked/surprised)
-* `iom` - Yum!
-* `hihgbha` - I am angry/frustrated
-* `aya` - tsk (disapproval)
-* `aigu` - Ouch (interjection)
-
+* `pnptpkr` - Can you repeat that, I didn't understand you
+* `rar` - er, um, indecisive sound
+* `rgksp` - Frick (interjection)
+* `shi` - Interjection
+* `sy gust` - I like it
+* `sy` - Yes
+* `sysaliny` - Please
+* `tanitomitami` - perfect, in a sarcastic way
+* `yps` - Oops!
 
 Adverbs
 -------
 
-
 **Tense:**
 
-
-* `sysaliny` - Please (adv form)
-* `tai` - Too (too big, too many, etc.)
-* `pas` - past
+* `fy` - future
 * `minmu` - too (too few, too letter, etc.)
 * `ni` - present (optional)
-* `fy` - future
-
+* `pas` - past
+* `sysaliny` - Please (adv form)
+* `tai` - Too (too big, too many, etc.)
 
 **Relative:**
 
-
 * `tshadom` - When
 
-
-**Other:**
-
-
-* `imi` - instruction, command
-* `ama` - too, in addition
-* `mogusi` - maybe
-
-
 **Time:**
-
 
 * `pasrus` - yesterday
 * `nirus` - today
 * `fyrus` - tomorrow
 
-
 **Particle:**
-
 
 * `li` - makes an adjective into an adverb (`li fos`: well)
 
+**Other:**
+
+* `ama` - too, in addition
+* `imi` - instruction, command
+* `mogusi` - maybe
 
 Conjunctions
 ------------
 
-
 * `a` - and
+* `isabahi` - Instead of, in place of
 * `kashi` - but
+* `ladi` - that (introduces a relative clause)
 * `ov` - or
 * `pat` - that ("I said that...", also used similarly to the "to" in "I want to...")
-* `isabahi` - Instead of, in place of
-* `ladi` - that (introduces a relative clause)
 * `shushu` - because
-
 
 Prepositions
 ------------
-
 
 * `ans` - Within, inside, at
 * `lait` - For, for the purpose of, in order to
 * `sans` - Outside of, not within, away from
 * `yns` - on
 
-
 Pronouns
 --------
 
-
 **Personal:**
-
 
 * `ma` - I
 * `mai` - us (non-inclusive)
-* `ka` - You
-* `kai` - You (plural), y'all
-* `maka` - You and I
-* `makai` - Us (inclusive)
-
+* `makai` - us (inclusive)
+* `ka` - you
+* `maka` - you and I
+* `kai` - you (plural), y'all
 
 **Demonstrative:**
-
 
 * `nimak` - Last person brought up
 * `pasmak` - Second-to-last person brought up
 * `niny` - Last inanimate object brought up
 * `pasny` - Second-to-last inanimate object brought up
 
-
 **Interrogative:**
 
-
-* `vmak` - Who? Which person?
-* `vy` - What? Which inanimate object?
-* `vop` - Where?
 * `vash` - When?
-
+* `vmak` - Who? Which person?
+* `vop` - Where?
+* `vy` - What? Which inanimate object?
 
 Particles
 ---------
 
-
 **Casing:**
-
 
 * `ta` - subject/nominative (optional)
 * `su` - direct object/accusative
 * `lia` - indirect object/dative
 * `my` - possession/genitive
 
-
 **Other:**
 
-
 * `sik` - "The word..." (`sik pluvyt` is "the word 'pluvyt'", not "it rains")
-
-
