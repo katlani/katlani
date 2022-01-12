@@ -78,12 +78,15 @@ Nouns
 * `rilifior` - air conditioner
 * `akniton` - supermarket
 * `ronta` - opportunity
+* `rigiks` - regex
+* `pirishy` - death
 * `spamra` - Nuisance
 * `noguna` - Ground, earth
 * `marinolus` - leader
 * `movogal` - animal
 * `papin` - Sin
 * `gutka` - Tobacco
+* `mim` - meme
 * `mutka` - Fist
 * `bsdnt` - crap, sh*t, general expletive
 * `drarkak` - unfulfilled promise
@@ -135,6 +138,7 @@ Verbs
 * `samsha` - To add, to append
 * `roga` - To be able to, allowed to
 * `nork` - to attack
+* `pirish` - die
 * `putsho` - To ask
 * `la` - law
 * `danshin` - To worry about a mistake one made
@@ -185,6 +189,7 @@ Adjectives
 * `krvina` - Red
 * `niao` - Cool, nice, interesting
 * `oontsa` - Tall
+* `kriatif` - creative
 * `shiro` - White
 * `infa` - Impossible
 * `gulu` - Yellow
