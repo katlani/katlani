@@ -280,6 +280,7 @@ Conjunctions
 * `ov` - or
 * `pat` - that ("I said that...", also used similarly to the "to" in "I want to...")
 * `isabahi` - Instead of, in place of
+* `ladi` - that (introduces a relative clause)
 * `shushu` - because
 
 
