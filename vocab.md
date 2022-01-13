@@ -240,6 +240,7 @@ Verbs
 * `valka` - To fight
 * `suki` - Lurch forward
 * `tigo` - to establish
+* `pomosh` - To help
 * `zaima` - decipher
 * `fotobl` - to sabotage
 * `ashvi` - To cook
