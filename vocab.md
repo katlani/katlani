@@ -148,6 +148,7 @@ Nouns
 * `koss` - Chess
 * `nanih` - Spanish
 * `shilan` - Program
+* `hi` - Hell
 * `hurigo` - champion / winner
 * `Tobl` - Trouble
 * `daosik` - A written instruction
