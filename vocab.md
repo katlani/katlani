@@ -134,6 +134,7 @@ Nouns
 * `mainkraft` - Minecraft
 * `shotiya` - Translator
 * `bianti` - A variant (bianti vi [thing])
+* `shubhu` - Cheese
 * `shutrak` - Country, nation
 * `shilani` - Program
 * `bianto` - A variant (bianti vi [thing])
@@ -141,7 +142,10 @@ Nouns
 * `isplo` - Soon, in little time
 * `opru` - Year
 * `khalling` - game
+* `raznitsa` - Difference
+* `ryby` - Fish
 * `shilan` - Program
+* `hurigo` - champion / winner
 * `Tobl` - Trouble
 * `daosik` - A written instruction
 
@@ -220,6 +224,7 @@ Verbs
 * `shidao` - To instruct, to order
 * `zaima` - decipher
 * `fotobl` - to sabotage
+* `ashvi` - To cook
 * `paonar` - To run
 
 
@@ -297,7 +302,9 @@ Adjectives
 * `tiksias` - cold
 * `tiratshi` - Italicized
 * `atir` - another
+* `bimid` - Favorite
 * `tsiaro` - Blue
+* `skialfisr` - Known, documented
 
 
 Interjections
