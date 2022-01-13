@@ -155,8 +155,10 @@ Nouns
 * `hurigo` - champion / winner
 * `sai` - Fork (utensil)
 * `mimhis` - rickroll
+* `koik` - champion
 * `tobl` - Trouble
 * `bo` - Stick
+* `ats` - fire
 * `daosik` - A written instruction
 
 
@@ -237,6 +239,7 @@ Verbs
 * `py` - see
 * `valka` - To fight
 * `suki` - Lurch forward
+* `tigo` - to establish
 * `zaima` - decipher
 * `fotobl` - to sabotage
 * `ashvi` - To cook
