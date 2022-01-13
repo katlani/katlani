@@ -128,6 +128,7 @@ Nouns
 * `zavod` - A factory
 * `zorliplak` - hyperlink
 * `vintz` - Problem, issue
+* `tonfa` - Crutch
 * `vodl` - world
 * `sod` - second
 * `tksu` - A spice, seasoning
@@ -152,7 +153,9 @@ Nouns
 * `kaikina` - Company
 * `shilan` - Program
 * `hurigo` - champion / winner
+* `sai` - Fork (utensil)
 * `tobl` - Trouble
+* `bo` - Stick
 * `daosik` - A written instruction
 
 
@@ -232,6 +235,7 @@ Verbs
 * `tuhu` - to obtain , receive
 * `py` - see
 * `valka` - To fight
+* `suki` - Lurch forward
 * `zaima` - decipher
 * `fotobl` - to sabotage
 * `ashvi` - To cook
