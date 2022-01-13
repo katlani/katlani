@@ -155,6 +155,7 @@ Verbs
 -----
 
 
+* `zil` - to bring
 * `a` - build
 * `aksi` - to come, approach
 * `alo` - to jump
@@ -223,10 +224,15 @@ Verbs
 * `kyngru` - To think, to consider, to be pensive
 * `srimshana` - To parse
 * `shidao` - To instruct, to order
+* `tuhu` - to obtain , receive
 * `zaima` - decipher
 * `fotobl` - to sabotage
 * `ashvi` - To cook
+* `pafy` - to become
 * `paonar` - To run
+* `otysh` - to wear
+* `krytuhu` - to buy
+* `kryfobl` - to sell
 
 
 Adjectives
