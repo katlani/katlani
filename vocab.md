@@ -126,9 +126,11 @@ Nouns
 * `zombi` - Zombie
 * `atirsi` - Duplicate
 * `atirsin` - Duplicate
+* `zavod` - A factory
 * `zorliplak` - hyperlink
 * `vodl` - world
 * `sod` - second
+* `tksu` - A spice, seasoning
 * `toay` - bitwise
 * `ak` - country
 * `mainkraft` - Minecraft
@@ -314,7 +316,9 @@ Adjectives
 * `bimid` - Favorite
 * `tsiaro` - Blue
 * `ngon` - attractive
+* `mildolla` - great
 * `skialfisr` - Known, documented
+* `midol` - grand
 
 
 Interjections
