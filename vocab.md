@@ -140,6 +140,7 @@ Nouns
 * `mosdob` - Morals
 * `isplo` - Soon, in little time
 * `opru` - Year
+* `khalling` - game
 * `shilan` - Program
 * `Tobl` - Trouble
 * `daosik` - A written instruction
