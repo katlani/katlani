@@ -145,6 +145,8 @@ Nouns
 * `raznitsa` - Difference
 * `ryby` - Fish
 * `kris` - sponge
+* `koss` - Chess
+* `nanih` - Spanish
 * `shilan` - Program
 * `hurigo` - champion / winner
 * `Tobl` - Trouble
@@ -311,6 +313,7 @@ Adjectives
 * `atir` - another
 * `bimid` - Favorite
 * `tsiaro` - Blue
+* `a` - a
 * `skialfisr` - Known, documented
 
 
