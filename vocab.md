@@ -131,7 +131,13 @@ Nouns
 * `toay` - bitwise
 * `ak` - country
 * `mainkraft` - Minecraft
+* `shotiya` - Translator
+* `bianti` - A variant (bianti vi [thing])
 * `shutrak` - Country, nation
+* `shilani` - Program
+* `bianto` - A variant (bianti vi [thing])
+* `shilan` - Program
+* `daosik` - A written instruction
 
 
 Verbs
@@ -204,7 +210,10 @@ Verbs
 * `zailia` - to demonstrate or show to
 * `shaigi` - To find
 * `kyngru` - To think, to consider, to be pensive
+* `srimshana` - To parse
+* `shidao` - To instruct, to order
 * `zaima` - decipher
+* `paonar` - To run
 
 
 Adjectives
@@ -375,8 +384,6 @@ Conjunctions
 * `ov` - or
 * `pat` - that ("I said that...", also used similarly to the "to" in "I want to...")
 * `shushu` - because
-
-
 * `yg` - so, therefore
 
 
