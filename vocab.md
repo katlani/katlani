@@ -144,6 +144,7 @@ Nouns
 * `khalling` - game
 * `raznitsa` - Difference
 * `ryby` - Fish
+* `kris` - sponge
 * `shilan` - Program
 * `hurigo` - champion / winner
 * `Tobl` - Trouble
