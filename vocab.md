@@ -218,6 +218,7 @@ Verbs
 * `srimshana` - To parse
 * `shidao` - To instruct, to order
 * `zaima` - decipher
+* `fotobl` - to sabotage
 * `paonar` - To run
 
 
