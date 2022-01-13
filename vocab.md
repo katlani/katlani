@@ -148,7 +148,6 @@ Nouns
 * `koss` - Chess
 * `nanih` - Spanish
 * `shilan` - Program
-* `hi` - Hell
 * `hurigo` - champion / winner
 * `Tobl` - Trouble
 * `daosik` - A written instruction
@@ -314,7 +313,6 @@ Adjectives
 * `atir` - another
 * `bimid` - Favorite
 * `tsiaro` - Blue
-* `a` - a
 * `skialfisr` - Known, documented
 
 
