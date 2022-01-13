@@ -154,6 +154,7 @@ Nouns
 * `shilan` - Program
 * `hurigo` - champion / winner
 * `sai` - Fork (utensil)
+* `mimhis` - rickroll
 * `tobl` - Trouble
 * `bo` - Stick
 * `daosik` - A written instruction
