@@ -313,6 +313,7 @@ Adjectives
 * `atir` - another
 * `bimid` - Favorite
 * `tsiaro` - Blue
+* `ngon` - attractive
 * `skialfisr` - Known, documented
 
 
