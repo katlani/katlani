@@ -127,6 +127,7 @@ Nouns
 * `atirsin` - Duplicate
 * `zavod` - A factory
 * `zorliplak` - hyperlink
+* `vintz` - Problem, issue
 * `vodl` - world
 * `sod` - second
 * `tksu` - A spice, seasoning
@@ -355,6 +356,7 @@ Interjections
 * `sysaliny` - Please
 * `tanitomitami` - perfect, in a sarcastic way
 * `yps` - Oops!
+* `borat` - very nice
 
 
 Adverbs
