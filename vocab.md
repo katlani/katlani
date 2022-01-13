@@ -325,6 +325,7 @@ Adjectives
 * `ngon` - attractive
 * `mildolla` - great
 * `skialfisr` - Known, documented
+* `ibro` - strange, disturbing, weird
 * `midol` - grand
 
 
