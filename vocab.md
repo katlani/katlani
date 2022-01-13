@@ -215,7 +215,7 @@ Verbs
 * `samsha` - To add, to append
 * `savaro` - To take (a bus, car), to ride
 * `shinpai` - to worry
-* `si` - to be
+* `si` - is, to be
 * `sitsyli` - to laugh
 * `sitsyli` - to laugh
 * `sloligima` - to lead
