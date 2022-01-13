@@ -128,6 +128,7 @@ Nouns
 * `atirsin` - Duplicate
 * `zorliplak` - hyperlink
 * `vodl` - world
+* `sod` - second
 * `toay` - bitwise
 * `ak` - country
 * `mainkraft` - Minecraft
@@ -137,6 +138,8 @@ Nouns
 * `shilani` - Program
 * `bianto` - A variant (bianti vi [thing])
 * `mosdob` - Morals
+* `isplo` - Soon, in little time
+* `opru` - Year
 * `shilan` - Program
 * `daosik` - A written instruction
 
