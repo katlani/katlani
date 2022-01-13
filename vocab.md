@@ -141,6 +141,7 @@ Nouns
 * `isplo` - Soon, in little time
 * `opru` - Year
 * `shilan` - Program
+* `Tobl` - Trouble
 * `daosik` - A written instruction
 
 
