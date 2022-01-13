@@ -116,7 +116,6 @@ Nouns
 * `tura` - Turing machine
 * `tuvung` - lexicon
 * `uboiak` - tomato
-* `vintzi` - Problem, issue
 * `voda` - vodka
 * `voldl` - student
 * `vontark` - a question
@@ -152,7 +151,7 @@ Nouns
 * `kaikina` - Company
 * `shilan` - Program
 * `hurigo` - champion / winner
-* `Tobl` - Trouble
+* `tobl` - Trouble
 * `daosik` - A written instruction
 
 
