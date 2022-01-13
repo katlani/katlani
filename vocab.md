@@ -149,6 +149,7 @@ Nouns
 * `kris` - sponge
 * `koss` - Chess
 * `nanih` - Spanish
+* `kaikina` - Company
 * `shilan` - Program
 * `hurigo` - champion / winner
 * `Tobl` - Trouble
@@ -229,6 +230,8 @@ Verbs
 * `srimshana` - To parse
 * `shidao` - To instruct, to order
 * `tuhu` - to obtain , receive
+* `py` - see
+* `valka` - To fight
 * `zaima` - decipher
 * `fotobl` - to sabotage
 * `ashvi` - To cook
