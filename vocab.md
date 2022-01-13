@@ -136,6 +136,7 @@ Nouns
 * `shutrak` - Country, nation
 * `shilani` - Program
 * `bianto` - A variant (bianti vi [thing])
+* `mosdob` - Morals
 * `shilan` - Program
 * `daosik` - A written instruction
 
