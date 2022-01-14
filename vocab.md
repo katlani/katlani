@@ -159,6 +159,7 @@ Nouns
 * `tobl` - Trouble
 * `bo` - Stick
 * `ats` - fire
+* `Sar` - Star
 * `daosik` - A written instruction
 
 
@@ -248,6 +249,7 @@ Verbs
 * `paonar` - To run
 * `otysh` - to wear
 * `krytuhu` - to buy
+* `Sal` - Star
 * `kryfobl` - to sell
 
 
