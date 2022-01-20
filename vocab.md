@@ -55,6 +55,7 @@ Vocabulary
 - `horrib` - bird
 - `hurigo` - winner
 - `inglish` - english
+- `iomshuksor` - cooking school
 - `isa` - here
 - `ispikar` - sand
 - `isplo` - soon, in little time
