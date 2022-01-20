@@ -2,7 +2,8 @@ Vocabulary
 ==========
 
 
-# Nouns
+Nouns
+-----
 
 - `abail` - house
 - `abikis` - bus
@@ -201,7 +202,8 @@ Vocabulary
 - `zombit` - zombie
 - `zorliplak` - hyperlink
 
-# Verbs
+Verbs
+-----
 
 - `aksi` - to come
 - `alo` - to jump
@@ -302,7 +304,8 @@ Vocabulary
 - `zaima` - to decipher
 - `zil` - to bring
 
-# Adjectives
+Adjectives
+----------
 
 - `agaa` - spicy
 - `aksiaks` - friendly (of a place), welcoming
@@ -389,15 +392,16 @@ Vocabulary
 - `tiratsh` - italicized
 - `tsiaro` - blue
 
-# Adverbs
+Adverbs
+-------
 
-## Tense Particles
+**Tense Particles:**
 
 - `pas` - past
 - `ni` - present
 - `fy` - future
 
-## Time
+**Time:**
 
 - `atirlo` - again, another time
 - `fyrus` - tomorrow
@@ -406,18 +410,18 @@ Vocabulary
 - `pasrus` - yesterday
 - `zilo` - already (`ktom ma atirnai`: "I have eaten already", `ktom fy ma atirnai`: "I'll have eaten already")
 
-## Comparison
+**Comparison:**
 
 - `id` - more (`id fos`: better)
 - `idid` - most (`idid fos`: best)
 - `ud` - less (`ud holt do ma`: "slower than me")
 - `udud` - least (`udud holt do makai`: "slowest of us all")
 
-## Particle
+**Particle:**
 
 - `li` - adverb particle (`li holt`: quickly)
 
-## Other
+**Other:**
 
 - `ama` - too (`ma ama`: "me too")
 - `doz` - must
@@ -430,9 +434,10 @@ Vocabulary
 - `ta` - sufficiently, enough, adequately (`ta op`: "big enough")
 - `tai` - too (too much, too big, `tai op`: "too big")
 
-# Pronouns
+Pronouns
+--------
 
-## 1st and 2nd
+**1st and 2nd:**
 
 - `ma` - 1st sing.
 - `ka` - 2nd sing.
@@ -441,7 +446,7 @@ Vocabulary
 - `maka` - 1st and 2nd sing.
 - `makai` - 1st plur. (inclusive)
 
-## 3rd
+**3rd:**
 
 - `fymak` - soon-to-be-mentioned 3rd animate
 - `fyny` - soon-to-be-mentioned 3rd inanimate
@@ -451,7 +456,7 @@ Vocabulary
 - `pasny` - second most recent 3rd inanimate
 - `somak` - a person in general ("you"/"one")
 
-## Question
+**Question:**
 
 - `vlo` - when?
 - `vmak` - who?
@@ -459,15 +464,16 @@ Vocabulary
 - `vrak` - where?
 - `vy` - what?
 
-# Prepositions
+Prepositions
+------------
 
-## Casing Particles
+**Casing Particles:**
 
 - `ta` - subject (optional)
 - `su` - direct object
 - `lia` - indirect object
 
-## Location and time
+**Location and Time:**
 
 - `ans` - within
 - `do` - from
@@ -479,7 +485,7 @@ Vocabulary
 - `tshadom` - when
 - `yns` - on, onboard
 
-## Other
+**Other:**
 
 - `asi` - which is the same as (`o asi ma`: "cat that is also me")
 - `kylt` - like, similar to (`si kotshi kylt abikisi`: "there are cars that are like buses")
@@ -490,7 +496,8 @@ Vocabulary
 - `tsaku` - about, on the topic of
 - `vi` - with, of
 
-# Conjunctions
+Conjunctions
+------------
 
 - `a` - and
 - `isabahi` - instead of
@@ -501,7 +508,8 @@ Vocabulary
 - `vis` - if
 - `yg` - so, then, thus, therefore
 
-# Interjections
+Interjections
+-------------
 
 - `aaaaa` - pain
 - `aigu` - ouch
@@ -536,6 +544,7 @@ Vocabulary
 - `tanitomitami` - perfect, in a sarcastic way
 - `yps` - oops
 
-# Other
+Other
+-----
 
 - `sik` - the word (`sik o`: "the word 'cat'")
