@@ -435,10 +435,28 @@ Prepositions
 ------------
 
 
-* `ans` - Within, inside, at
-* `lait` - For, for the purpose of, in order to
-* `sans` - Outside of, not within, away from
-* `yns` - on
+**Casing Particles:**
+
+- `ta` - subject (optional)
+- `su` - direct object
+- `lia` - indirect object
+
+**Location and time:**
+
+- `ans` - within
+- `do` - from
+- `manvi` - on top of
+- `sans` - outside, not within, away from
+- `tshadom` - when
+- `yns` - on, onboard
+
+**Other:**
+
+- `asi` - which is the same as (`o asi ma`: "cat that is also me")
+- `lait` - for, for the purpose of, in order to
+- `my` - owns (`o my ma`: "my cat")
+- `pat` - that (`hada ma pat ...`: "i said that ...")
+- `vi` - with, of
 
 
 Pronouns
@@ -476,15 +494,6 @@ Pronouns
 
 Particles
 ---------
-
-
-**Casing:**
-
-
-* `ta` - subject/nominative (optional)
-* `su` - direct object/accusative
-* `lia` - indirect object/dative
-* `my` - possession/genitive
 
 
 **Other:**
