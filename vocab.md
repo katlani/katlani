@@ -23,6 +23,7 @@ Vocabulary
 - `boraky` - privacy
 - `borsh` - soup
 - `bot` - butter
+- `br` - storm
 - `brbrno` - exception, unusual occurence
 - `byt` - byte
 - `daosik` - instruction, written order
@@ -180,7 +181,7 @@ Vocabulary
 - `tomp` - potato
 - `tonfa` - crutch
 - `toto` - rain
-- `totobr` - storm
+- `totobr` - rainstorm
 - `tshans` - color
 - `tshimiso` - preposition
 - `tshomp` - jaw
