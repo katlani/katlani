@@ -230,7 +230,7 @@ Vocabulary
 - `kaizi` - to look up, to search for (information)
 - `kaminar` - to walk
 - `kata` - to sleepwalk
-- `kbam` - to create
+- `kbam` - to make, to create, to build
 - `kiro` - to want
 - `kiso` - to ask (to know something)
 - `kloc` - to play
