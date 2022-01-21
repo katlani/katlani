@@ -408,7 +408,7 @@ Adverbs
 - `isplo` - soon, in little time
 - `nirus` - today
 - `pasrus` - yesterday
-- `zilo` - already (`ktom ma atirnai`: "I have eaten already", `ktom fy ma atirnai`: "I'll have eaten already")
+- `zilo` - already (`pas ktom ma zilo`: "I have eaten already", `fy ktom ma a zilo`: "I'll have eaten already")
 
 **Comparison:**
 
