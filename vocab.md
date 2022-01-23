@@ -133,7 +133,7 @@ Nouns
 - `polr` - salad
 - `posodo` - container, bowl, cup
 - `pouk` - pancake
-- `produty` - exposion
+- `produty` - explosion
 - `rak` - place
 - `raznitsa` - difference
 - `rigiks` - regular expression (regex, regexp)
@@ -213,7 +213,6 @@ Verbs
 - `bindsh` - to overdo something
 - `bloim` - to grow
 - `briga` - to care
-- `corus` - to cross
 - `danshin` - to worry (about a mistake one made)
 - `darvaza` - to start (to do something)
 - `dingdai` - to wait
@@ -236,7 +235,7 @@ Verbs
 - `kbam` - to make, to create, to build
 - `kiro` - to want
 - `kiso` - to ask (to know something)
-- `kloc` - to play
+- `klok` - to play
 - `konfin` - to catch
 - `konlang` - to construct a language
 - `konso` - to argue, disagree
@@ -244,6 +243,7 @@ Verbs
 - `kryfobl` - to sell
 - `krytuhu` - to buy, purchase
 - `konsto` - to allow
+- `korus` - to cross, go across
 - `ksoi` - to know
 - `ktom` - to eat
 - `kukduku` - to crow, like a rooster
@@ -254,7 +254,7 @@ Verbs
 - `mognos` - to sneak, to tip-toe
 - `nai` - to do (generic verb)
 - `nistaha` - to look, to see
-- `nomic` - to change
+- `nomik` - to change
 - `nork` - to attack
 - `onin` - to think (something is true), to opine
 - `oto` - to own
