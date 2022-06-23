@@ -201,6 +201,7 @@ Nouns
 * `zivod` - factory, industrial plant
 * `zimdo` - letter (of the alphabet)
 * `zombit` - zombie
+* `klarka` - A table
 * `zorliplak` - hyperlink
 
 
