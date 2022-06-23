@@ -306,6 +306,7 @@ Verbs
 * `zailia` - to demonstrate, to show
 * `zaima` - to decipher
 * `zil` - to bring
+* `kyngg` - To believe in, support, agree with, something
 
 
 Adjectives
